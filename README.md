@@ -1,5 +1,5 @@
-# RTP-microhack
-A Github repository for the Azure CycleCloud RTP MicroHack
+# prepare for the Microhack
+Github repository for the Azure CycleCloud RTP MicroHack from Kai Neuffer
 
 # Contents
 [Scenario](#scenario)
